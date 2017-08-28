@@ -5,3 +5,5 @@ Criação de um código bem documentado e funcional para aprendizagem de uma nov
 # Requisitos
 Cadastro de Funcionários, Cadastro de Fornecedores, Cadastro de Produtos, Consulta de Produtos, Consulta de Funcionários, Consulta de Fornecedores, Excluir Produto, Excluir Fornecedor Cadastrar uma Venda e Cancelar uma Venda.
 Será utilizado o armazenamento em arquivos.
+# Componentes de Grupo
+Leandro Mascaro Fernandes             RA: 158101
